@@ -1,0 +1,1 @@
+print([[n for n in range(4)] for x in range(3)] )
