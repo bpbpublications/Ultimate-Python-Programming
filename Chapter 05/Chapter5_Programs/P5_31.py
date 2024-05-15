@@ -1,0 +1,7 @@
+weekdays = frozenset({'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'})
+weekend = frozenset(['Saturday', 'Sunday'])
+vowels = frozenset('aeiou')
+print(type(weekdays))
+print(weekdays)
+print(weekend)
+print(vowels)

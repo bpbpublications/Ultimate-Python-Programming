@@ -1,0 +1,3 @@
+
+division by zero
+(<class '__main__.MyError'>, MyError('An error occurred'), <traceback object at 0x00000210579B4600>)

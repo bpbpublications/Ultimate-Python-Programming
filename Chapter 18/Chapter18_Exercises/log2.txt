@@ -1,0 +1,6 @@
+
+func1 called at Thu Feb  8 12:50:58 2024
+func2 called at Thu Feb  8 12:50:58 2024
+func1 called at Thu Feb  8 12:51:01 2024
+func2 called at Thu Feb  8 12:51:01 2024
+func2 called at Thu Feb  8 12:51:17 2024

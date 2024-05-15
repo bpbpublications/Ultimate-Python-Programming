@@ -1,0 +1,1 @@
+(lambda x, y: x + y, x - y)(7, 3)

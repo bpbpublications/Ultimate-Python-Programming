@@ -1,0 +1,15 @@
+e = Exception('msg', 1, 2)
+ex = LookupError(2,4, 'A', 'B')
+exc = ZeroDivisionError('XX')
+excp = IndexError()
+print(e.args)
+print(ex.args)
+print(exc.args)
+print(excp.args)
+
+print(str(e))
+print(str(ex))
+print(str(exc))
+print(str(excp))
+
+print(repr(e))

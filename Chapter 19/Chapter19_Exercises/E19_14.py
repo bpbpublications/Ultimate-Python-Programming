@@ -1,0 +1,1 @@
+print(sorted([-22, 3, 4, -44, 32, 2], key=abs))

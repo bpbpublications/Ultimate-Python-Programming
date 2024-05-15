@@ -1,0 +1,12 @@
+Which of these is the exponentiation operator in Python
+A. %     B. ^    C. *     D. **
+D
+-----------------------------------------------------------------
+What is returned from a function that does not have a return statement
+A. 0   B. None    C. Nothing
+B
+-----------------------------------------------------------------
+Python is a case sensitive language.
+A.True    B.False
+A
+-----------------------------------------------------------------

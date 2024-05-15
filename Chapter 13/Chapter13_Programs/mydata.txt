@@ -1,0 +1,4 @@
+Beautiful is better than ugly.
+명시적인 것이 암시적인 것보다 낫습니다.
+단순한 것이 복잡한 것보다 낫습니다.
+Flat is better than nested.

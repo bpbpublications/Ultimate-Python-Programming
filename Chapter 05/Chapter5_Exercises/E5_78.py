@@ -1,0 +1,6 @@
+text = input('Enter some text : ')
+vowels = set('aeiou')
+consonants = set('bcdfghjklmnpqrstvwxyz')
+v = vowels & (set(text))
+c = consonants & (set(text))
+print(v, c)

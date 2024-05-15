@@ -1,0 +1,83 @@
+P13_1
+P13_2
+
+Section 13.4
+P13_3
+P13_4
+
+Section 13.5
+P13_5
+P13_6
+P13_7
+
+Section 13.6
+P13_8
+P13_9
+P13_10
+P13_11
+
+
+Section 13.8
+myprog.py
+
+Section 13.10
+P13_12
+P13_13
+
+Section 13.11
+P13_14
+P13_15
+P13_16
+
+Section 13.12
+P13_17
+P13_18
+P13_19
+P13_20
+P13_21
+P13_22
+P13_23
+
+Section 13.13
+P13_24
+P13_25
+P13_26
+
+Section 13.14
+P13_27
+
+Section 13.15
+P13_28
+P13_29
+P13_30
+P13_31
+P13_32
+P13_33
+P13_34
+P13_35
+P13_36
+P13_37
+P13_38
+P13_39
+P13_40
+P13_41
+P13_42
+P13_43
+P13_44
+
+Section 13.17
+sample.py
+countlines.py
+copy.py
+append.py
+
+Section 13.18
+P13_45
+P13_46
+P13_47
+P13_48
+P13_49
+P13_50
+P13_51
+P13_52
+P13_53

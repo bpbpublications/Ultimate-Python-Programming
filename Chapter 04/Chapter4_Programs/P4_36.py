@@ -1,0 +1,8 @@
+t1 = (1, 2, 3, 'black')
+t2 = (1, 2, 3, 'black')
+print(t1 == t2)
+print(t1 != t2)
+print(t1 is t2)
+print(t1 is not t2)
+print(2 in t1)
+print(2 not in t1)

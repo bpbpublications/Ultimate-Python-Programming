@@ -1,0 +1,6 @@
+x = range(3, 0, -1)
+y = reversed([1, 2, 3])
+print(list(x))
+print(list(y))
+print(tuple(x))
+print(tuple(y))

@@ -1,0 +1,8 @@
+23412 : Deep : Bio-55: Maths-97: Chem-78: Eng-98: deep@yahoo.com
+23413 : Dev : Comp-45:Maths-97: Bio-78: dev@yahoo.com
+23413 : Anand: Maths-62:Eng-45:Comp-45: anand@yahoo.com
+48135 : Kiran : Maths-39:Bio-67: Comp-78: Eng-98: Science-23: French-45: kiran@yahoo.com
+23412 : Harsh : Bio-45: Maths-67: Chem-78: Eng-98: harsh@yahoo.com
+23413 : Sheetal : Comp-95:Maths-87: Bio-88: Chem-38: French-45: sheetal@yahoo.com
+23413 : Sukhi : French-32:Eng-35:Comp-45: sukhi@yahoo.com
+48136 : Khushi : Maths-99:Bio-97: Comp-78: Eng-98: Science-67: khushi@yahoo.com
